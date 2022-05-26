@@ -1,0 +1,209 @@
+
+body{
+    background-color: #F4F4F4;
+    font-size: 16px;
+}
+.ast{
+    font-size: 30px;
+    position: absolute;
+    right: 30px;
+    top: 8px;
+    color: #D20707;
+}
+/*start login form*/
+
+.login{
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login input{
+    margin-bottom: 10px;
+}
+
+.login .form-control{
+    background-color: #E5E5E5;
+}
+
+.login h4{
+    color: #888;
+}
+
+/*end login form*/
+/* start bootstrap Edits*/
+
+.navbar{
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand{
+    font-size: 1em;
+}
+
+.nav>li>a,
+.navbar-brand{
+    padding: 15px 12px;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover,
+.dropdown-menu{
+    background-color: #3498db;
+}
+
+.dropdown-menu>li>a,
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover
+{
+    color: #FFF;
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+    background-color: #9543e0;
+}
+
+.form-control{
+    position: relative;
+}
+/* end bootstrap Edits*/
+
+/* start Member page*/
+
+h1{
+    font-weight: bold;
+    color: #666;
+}
+
+.show_password{
+    position: absolute;
+    top: 9px;
+    right: -9px;
+}
+.main_table{
+    -webkit-box-shadow: 0 3px 10px #CCC;
+    -moz-box-shadow: 0 3px 10px #CCC;
+    box-shadow: 0 3px 10px #CCC;
+}
+.main_table th{
+    background-color: #333;
+    color: #FFF;
+}
+.main_table td{
+    background-color: #FFF;
+    vertical-align: middle !important;
+}
+/* end Member page*/
+/*start Dashboard Page*/
+
+.home-stats .stat{
+    padding: 20px;
+    font-size: 20px;
+    color: #FFF;
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.home-stats .stat i{
+    position: relative;
+    font-size: 80px;
+    top: -8px;
+    left: -15px;
+}
+
+.home-stats .stat .info{
+    float: right;
+}
+
+.home-stats .stat a{
+    color: #FFF;
+}
+
+.home-stats .stat a:hover{
+    text-decoration: none;
+}
+
+.home-stats .st-members{
+    background-color: #3498db;
+}
+
+.home-stats .st-pendings{
+    background-color: #c0392b;
+}
+
+.home-stats .st-items{
+    background-color: #d35400;
+}
+
+.home-stats .st-comments{
+    background-color: #8e44ad;
+}
+
+.home-stats .stat span{
+    display: block;
+    font-size: 60px;
+}
+
+.Latest{
+    margin-top: 30px;
+}
+
+.Latest .toggle-info{
+    color: #999;
+}
+
+.Latest .toggle-info:hover{
+    color: #444;
+    cursor: pointer;
+}
+
+.latestUsers li:nth-child(odd){
+    background-color: #EEE;
+}
+
+.latestUsers a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.latestUsers{
+    margin-bottom: 0px;
+}
+
+.latestUsers .btn-success{
+    padding: 3px 8px;
+}
+
+.latestUsers li{
+    padding: 8px;
+    overflow: hidden;
+}
+/*End Dashboard Page*/
+/*Start Category Page*/
+.v-yes{
+    background-color: #16a085;
+    color: #FFF;
+    padding: 4px 6px;
+    border-radius: 10px;
+}
+.v-no{
+    background-color: #c0392b;
+    color: #FFF;
+    padding: 4px 6px;
+    border-radius: 10px;
+}
+.d-yes{
+    background-color: #34495e;
+    color: #FFF;
+    padding: 4px 6px;
+    border-radius: 10px;
+}
+.d-no{
+    background-color: #d35400;
+    color: #FFF;
+    padding: 4px 6px;
+    border-radius: 10px;
+}
+/*End Category Page*/

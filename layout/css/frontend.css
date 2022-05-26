@@ -1,0 +1,217 @@
+
+/* .ast{
+    font-size: 30px;
+    position: absolute;
+    right: 9px;
+    top: 4px;
+    color: #D20707;
+} */
+
+/* h1{
+    font-weight: bold;
+    color: #666;
+} */
+
+
+
+/* start upper-bar Edits*/ 
+/* 
+.ava-img{
+    position: absolute;
+    width: 48px;
+    top: 8px;
+    height: 51px;
+    right: 128px;
+}
+
+
+
+
+.log{
+    position: absolute;
+    right: 111px;
+    top: 34px;
+}
+
+.log1{
+    position: absolute;
+    right: 111px;
+    top: 58px;
+} */
+/* end upper-bar Edits
+
+/* start categories page*/
+/* .item-box-cat{
+    position: relative;
+    height: 460px;
+    max-height: 500px;
+}
+.item-box-cat img{
+    height: 295px;
+    width: 250px;
+}
+*/
+
+
+/* end categories page*/
+
+
+/*start profile  page*/
+/* .information{
+    margin-top: 20px;
+}
+
+.information ul{
+    margin: 0;
+    padding: 0;
+}
+
+.item-box{
+    position: relative;
+    height: 490px;
+    max-height: 500px;
+}
+
+.item-box img{
+    height: 295px;
+    width: 250px;
+}
+
+.information ul li{
+    padding: 10px;
+    display: block;
+}
+
+.information ul li span{
+    display: inline-block;
+    width: 120px;
+}
+
+.information ul li:nth-child(odd){
+    background-color: #EEE;
+}
+.v-yes{
+    background-color: #16a085;
+    color: #FFF;
+    padding: 4px 6px;
+    border-radius: 10px;
+}
+.v-no{
+    background-color: #c0392b;
+    color: #FFF;
+    padding: 4px 6px;
+    border-radius: 10px;
+}
+
+.caption a{
+    text-decoration: none;
+}
+
+.caption p{
+    overflow: hidden;
+    margin: 0 0 10px;
+    white-space: nowrap;
+}
+
+.date{
+    margin-top: 10px;
+    color: #888888;
+}
+
+.price-tag{
+    position: absolute;
+    left: 0;
+    top: 10px;
+    padding: 2px 3px;
+    font-weight: bold;
+    color: #FFF;
+    background-color: #F2B84B;
+}
+
+end profile  page */
+
+
+/*start index  page*/
+
+/* .ind{
+    margin-top: 30px;
+} */
+
+/*end index page*/
+
+
+
+
+
+/* *************************** Start PRICING **************************** */
+
+/* .PRICING {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #3399FF;
+    color: #FFF
+}
+
+.PRICING h5 {
+    color: #FFF;
+    font-size: 36px;
+    font-weight: bold
+}
+
+.PRICING .lead  {
+    color: #FFF;
+    margin-top: 20px
+}
+
+.PRICING .product {
+    padding: 30px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.PRICING .product h4 , h1 {
+    font-weight: bolder;
+    color: #333
+}
+
+.PRICING .product h4 {
+    font-size: 30px;
+    margin-bottom: 10px
+}
+
+.PRICING .product h1 {
+    font-size: 27px;
+    margin-top: 0
+}
+
+.PRICING .product p {
+    color: #888
+}
+
+.PRICING .product b {
+    margin-bottom: 25px;
+    display: block;
+    color: #888
+}
+
+.PRICING .product hr {
+    margin-bottom: 35px;
+    margin-top: 40px;
+    border-top: 2px solid #eee;
+}
+
+.PRICING .product li {
+    line-height: 2;
+    color: #888;
+    display: block
+}
+
+.PRICING .product .btn {
+    margin-top: 20px;
+    text-transform: uppercase
+} */
+
+
+/* *************************** End PRICING **************************** */

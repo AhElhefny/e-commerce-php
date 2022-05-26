@@ -1,0 +1,138 @@
+/* *****************************Start Media Query*************************** */
+
+@media (max-width: 479px) {
+    
+    
+    .loading-overlay h1 {
+        margin:180px auto 130px;
+        color: #FFF;
+        font-size: 20px;
+        
+    }
+    
+     .loading-overlay {  display: none}
+    
+    
+    .navbar .navbar-toggle { border: 2px solid #FFF }
+    
+    .header { overflow-x: hidden}
+    
+    .header h1 { font-size: 20px; margin-top: 12px; font-weight: bold; }
+    
+    .header p { margin-top: 17px; line-height: 1.5; font-size: 15px; font-weight: 500 }
+    
+    .header .btn { margin-top: 10px; font-size: 12px }
+    
+    .header img { margin: 60px auto 0; width: 260px}
+    
+    .services .lead { margin-left: 15px;margin-right: 15px; font-size: 15px}
+    
+    .services .parag { font-size: 15px;margin-bottom: 40px }
+    
+    .team h1 , .clients h1 { font-size: 27px }
+    
+    .team .para , .clients p{ font-size: 15px; margin-left: 15px; margin-right: 15px; }
+    
+    .contact-us .first .input-group-addon, .form-control { margin-bottom: 0 }
+    
+    .contact-us .input-group-addon  { width: 15% }
+    
+    .contact-us  .form-control { width: 85%; margin-left: 20px }
+    
+    .footer { padding-top: 50px; padding-bottom: 10px }
+    
+    .footer h4 { color: #FFF }
+    
+    .footer .foot { padding-bottom: 20px; margin-left: 20px }
+    
+    .footer input { margin: 15px 30px }
+    
+    .footer .btn { margin: 15px 50px; border-radius: 0; width: 100px }
+    
+    .contact-us .form-group textarea{ margin-left: 0}
+
+}
+
+
+
+
+/* *************************************************************** */ 
+
+
+/* Small devices (landscape phones, 576px and up)  */
+@media (min-width : 480px) and (max-width: 767px) {
+
+    body { padding-top: 20px }
+    
+    .navbar .navbar-toggle { border: 2px solid #FFF }
+    
+    .header h1 { font-size: 20px; margin-top: 15px; font-weight: bold }
+    
+    .header p { margin-top: 13px; line-height: 1.7; font-size: 17px; font-weight: 500 }
+    
+    .header .btn { margin-top: 15px }
+    
+    .header img {margin: 80px auto 0}
+    
+    .services .parag { margin-bottom: 40px }
+    
+    .PRICING .lead { margin-left: 15px;margin-right: 15px}
+    
+    .PRICING .product { width: 85%; margin-left: 8%}
+    
+    .footer { padding-top: 50px; padding-bottom: 10px }
+    
+    .footer h4 { color: #FFF }
+    
+    .footer .foot { padding-bottom: 50px; margin-left: 30px }
+    
+    .footer input { margin: 15px 30px }
+    
+     .footer .btn { margin: 15px 50px; border-radius: 0; width: 100px }
+
+}
+
+
+
+
+/*  Medium devices (tablets, 768px and up)  */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    body { padding-top: 20px }
+    
+    .header h1 { font-size: 20px; margin-top: 15px; font-weight: bold }
+    
+    .header p { margin-top: 13px; line-height: 1.7; font-size: 17px; font-weight: 500 }
+    
+    .header .btn { margin-top: 15px }
+    
+    .header img { margin: 40px auto;  }
+    
+    .services .parag { margin-bottom: 40px }
+    
+    .PRICING .product { width: 88%; margin-left: 5%}
+
+    .footer .footer-hr { width: 90%;border-top: 2px solid #FFF}
+    
+    .footer .col-md-4:first-of-type { margin-bottom: 22px }
+    
+    .footer h4 { color: #FFF }
+}
+
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .header img { margin-left: 0px }
+     
+    
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+/*   Spetial Case of Screen */
+@media (min-width: 768px) and (max-width: 1800px) { }
+
+/* *****************************End Media Query***************************** */
